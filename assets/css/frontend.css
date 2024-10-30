@@ -1,0 +1,56 @@
+p.jseacgpSuccess {
+	color: #317331;
+    border: 1px dotted #b3f1b3;
+    padding: 5px;
+    background: #c2ecc533;
+}
+
+p.jseacgpError {
+	color: #733831;
+    border: 1px dotted #f1bab3;
+    padding: 5px;
+    background: #ecc2c233;
+}
+
+table.jseagp-isf {
+	margin: 0px;
+	border: none;
+}
+
+table.jseagp-isf tr {
+	border: none;
+}
+
+table.jseagp-isf td {
+	border: none;
+}
+
+#jseacgpYear {
+	width: 100% !important;
+}
+
+#jseacgpExam {
+	width: 100% !important;
+}
+
+#jseacgpDobrith {
+	width: 100% !important;
+}
+
+.jseacgpLoader {
+	margin: 0;
+	height: 40px;
+}
+
+.jseacgpLoaderText {
+	display: inline-block;
+    margin-left: 10px;
+}
+
+.jseacgpLoaderImg {
+	width: 40px;
+	height: 40px;
+	border: none;
+	float: left;
+}
+
